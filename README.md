@@ -1,0 +1,5 @@
+# 
+
+```
+const pred = new Predictor()
+```
